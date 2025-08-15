@@ -1,0 +1,80 @@
+2025-08-15 16:51:59,017 - INFO - === INICIO DEL SCRAPER MULTI-FUENTE CON TRADUCCIÓN ===
+2025-08-15 16:51:59,018 - INFO - Limpiando registros antiguos y archivos de imágenes...
+2025-08-15 16:52:01,046 - INFO - Tabla RECURSOS_DIARIOS vaciada exitosamente.
+2025-08-15 16:52:01,047 - INFO - Carpeta de recursos de imágenes vaciada exitosamente.
+2025-08-15 16:52:01,048 - INFO - 
+Obteniendo fotos de Bing...
+2025-08-15 16:52:01,927 - INFO - Se obtuvieron 8 fotos de Bing
+2025-08-15 16:52:01,927 - INFO - 
+Obteniendo fotos de Pexels...
+2025-08-15 16:52:04,760 - INFO - Se obtuvieron 25 fotos de Pexels
+2025-08-15 16:52:04,761 - INFO - 
+Obteniendo fotos de Unsplash...
+2025-08-15 16:52:06,052 - INFO - Se obtuvieron 20 fotos de Unsplash
+2025-08-15 16:52:06,054 - INFO - 
+Obteniendo fotos de NASA...
+2025-08-15 16:52:07,675 - INFO - Se obtuvieron 9 fotos de NASA
+2025-08-15 16:52:08,910 - INFO - Procesando [1/62]: Winging it underwater
+2025-08-15 16:52:10,606 - INFO - Procesando [2/62]: Taking it from the top
+2025-08-15 16:52:12,945 - INFO - Procesando [3/62]: Earth's open secret
+2025-08-15 16:52:15,265 - INFO - Procesando [4/62]: Wild, wise, and wonderful
+2025-08-15 16:52:17,231 - INFO - Procesando [5/62]: Postcard from the peaks
+2025-08-15 16:52:19,130 - INFO - Procesando [6/62]: Roar for a cause
+2025-08-15 16:52:20,117 - INFO - Procesando [7/62]: Honoring Indigenous voices
+2025-08-15 16:52:21,192 - INFO - Procesando [8/62]: All for falls and falls for all
+2025-08-15 16:52:22,270 - INFO - Procesando [9/62]: An empty urban parking garage at night with dramatic lightin
+2025-08-15 16:52:25,555 - INFO - Procesando [10/62]: A vertical view of a spiral multi-storey car park filled wit
+2025-08-15 16:52:26,823 - INFO - Procesando [11/62]: A well-lit, vacant parking garage with overhead signage and 
+2025-08-15 16:52:29,022 - INFO - Procesando [12/62]: Drone shot showing cars and people in a parking lot in Rosto
+2025-08-15 16:52:31,174 - INFO - Procesando [13/62]: Aerial shot of a parking lot with cars and a pink building, 
+2025-08-15 16:52:33,231 - INFO - Procesando [14/62]: Neatly arranged wrenches and tools on a workshop wall, ideal
+2025-08-15 16:52:34,659 - INFO - Procesando [15/62]: A vintage car surrounded by classic tools and equipment in a
+2025-08-15 16:52:37,894 - INFO - Procesando [16/62]: Bright suburban home with classic architecture and landscape
+2025-08-15 16:52:40,410 - INFO - Procesando [17/62]: Mechanic skillfully repairing car undercarriage in outdoor s
+2025-08-15 16:52:43,787 - INFO - Procesando [18/62]: Charming family home in Boise, ID with a modern facade and s
+2025-08-15 16:52:46,326 - INFO - Procesando [19/62]: Luxury cars lined up at an outdoor dealership, showcasing sl
+2025-08-15 16:52:48,990 - INFO - Procesando [20/62]: Front view of a lineup of Mercedes-Benz cars with bright hea
+2025-08-15 16:52:50,343 - INFO - Procesando [21/62]: Red Ferrari sports car showcased at Dubai Mall, UAE, symboli
+2025-08-15 16:52:51,960 - INFO - Procesando [22/62]: Sleek red sports car parked on a charming historic street in
+2025-08-15 16:52:53,443 - INFO - Procesando [23/62]: Close-up black and white image of a luxury car line-up focus
+2025-08-15 16:52:54,928 - INFO - Procesando [24/62]: Quiet urban alley with parked cars between old brick buildin
+2025-08-15 16:52:59,395 - INFO - Procesando [25/62]: Grunge-style graffiti on an urban brick wall featuring a pin
+2025-08-15 16:53:01,800 - INFO - Procesando [26/62]: Vivid blue wall with a closed door and shutter in Valparaiso
+2025-08-15 16:53:04,248 - INFO - Procesando [27/62]: A dark, atmospheric view of an empty underground tunnel in g
+2025-08-15 16:53:06,503 - INFO - Procesando [28/62]: Young woman in yellow winter jacket against vibrant graffiti
+2025-08-15 16:53:07,783 - INFO - Procesando [29/62]: Captivating aerial view of illuminated skyscrapers in New Yo
+2025-08-15 16:53:09,535 - INFO - Procesando [30/62]: Majestic view of Shanghai's illuminated skyline featuring ic
+2025-08-15 16:53:11,214 - INFO - Procesando [31/62]: A stunning aerial view of New York City's skyline featuring 
+2025-08-15 16:53:14,282 - INFO - Procesando [32/62]: A stunning view of Dubai skyscrapers emerging through a blan
+2025-08-15 16:53:15,677 - INFO - Procesando [33/62]: Stunning New York City skyline with modern skyscrapers refle
+2025-08-15 16:53:16,954 - INFO - Procesando [34/62]: a person jumping into the air at sunset
+2025-08-15 16:53:23,292 - INFO - Procesando [35/62]: orange flowers
+2025-08-15 16:53:26,462 - INFO - Procesando [36/62]: sun light passing through green leafed tree
+2025-08-15 16:53:36,318 - INFO - Procesando [37/62]: two brown deer beside trees and mountain
+2025-08-15 16:53:47,464 - INFO - Procesando [38/62]: foggy mountain summit
+2025-08-15 16:53:57,085 - INFO - Procesando [39/62]: the sun is setting over the mountains in the desert
+2025-08-15 16:54:07,839 - INFO - Procesando [40/62]: body of water surrounded by trees
+2025-08-15 16:54:14,473 - INFO - Procesando [41/62]: green mountain across body of water
+2025-08-15 16:54:18,898 - INFO - Procesando [42/62]: aerial shot of forest
+2025-08-15 16:54:27,707 - INFO - Procesando [43/62]: brown wooden dock between lavender flower field near body of
+2025-08-15 16:54:36,407 - INFO - Procesando [44/62]: brown lion on green grass field
+2025-08-15 16:54:46,852 - INFO - Procesando [45/62]: group of zebra walking on wheat field
+2025-08-15 16:54:55,157 - INFO - Procesando [46/62]: brown deer beside plants
+2025-08-15 16:54:57,996 - INFO - Procesando [47/62]: leopard on tree branch
+2025-08-15 16:55:01,394 - INFO - Procesando [48/62]: blue and green bird on top of brown branch during daytime
+2025-08-15 16:55:05,199 - INFO - Procesando [49/62]: silhouette photography of person
+2025-08-15 16:55:11,571 - INFO - Procesando [50/62]: cluster of star illustration
+2025-08-15 16:55:13,782 - INFO - Procesando [51/62]: silhouette photo of mountain during night time
+2025-08-15 16:55:19,822 - INFO - Procesando [52/62]: silhouette of trees and mountain under blue sky at nighttime
+2025-08-15 16:55:25,675 - INFO - Procesando [53/62]: Nebula
+2025-08-15 16:55:38,787 - INFO - Procesando [54/62]: Crepuscular Rays Over Utah
+2025-08-15 16:55:42,352 - INFO - Procesando [55/62]: Phobos: Doomed Moon of Mars
+2025-08-15 16:55:47,062 - INFO - Procesando [56/62]: Milky Way Above Easter Island
+2025-08-15 16:55:50,700 - INFO - Procesando [57/62]: A Very Large Array of Radio Telescopes
+2025-08-15 16:55:52,723 - INFO - Procesando [58/62]: S is for Venus
+2025-08-15 16:56:00,789 - INFO - Procesando [59/62]: Eros From Orbit
+2025-08-15 16:56:03,295 - INFO - Procesando [60/62]: NGC 1499: California Nebula
+2025-08-15 16:56:08,673 - INFO - Procesando [61/62]: Wolf-Lundmark-Melotte
+2025-08-15 16:56:34,380 - INFO - Procesando [62/62]: Lyrid Meteors from the Constellation Lyra
+2025-08-15 16:56:38,572 - INFO - 
+Proceso de guardado finalizado. Total de fotos guardadas: 62
